@@ -3,9 +3,9 @@ CCNA Labs, Notes &amp; Learning Journey
 
 Documenting my journey toward the Cisco Certified Network Associate (CCNA) certification.
 
-## Topics Covered
-
-
+## Progress Tracker
+- [x] OSI Model
+- [x] TCP vs UDP
 
 
 ## Tools
@@ -13,3 +13,4 @@ Documenting my journey toward the Cisco Certified Network Associate (CCNA) certi
 - Wireshark
 - CML
 - draw.io
+
