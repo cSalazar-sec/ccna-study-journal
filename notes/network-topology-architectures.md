@@ -138,9 +138,6 @@ Disadvantages:
      Access   Access   Access
      Switch   Switch   Switch
 ```
-
-> Insert topology diagram image here
-
 ---
 
 # Three-Tier Architecture
@@ -255,9 +252,6 @@ Clean. Scalable. Manageable.
     Access  Access    Access  Access
     Switch  Switch    Switch  Switch
 ```
-
-> Insert topology diagram image here
-
 ---
 
 # Business vs Technical Design
