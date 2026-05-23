@@ -22,7 +22,7 @@ Documenting my journey toward the Cisco Certified Network Associate (CCNA) certi
 - CML
 - draw.io
 
-- #Resources
+## Resources
 - Summer Of CCNA
 - Jeremy's IT Lab
 
