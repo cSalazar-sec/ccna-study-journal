@@ -114,7 +114,7 @@ The following addressing conventions were used throughout the lab:
 
 # Network Diagram
 
-<img width="925" height="651" alt="image" src="https://github.com/user-attachments/assets/5aeee984-b877-4b4e-af5b-eb81fd272397" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a169e33c-86a3-4fb2-b18f-d2aa2c71e64d" />
 
 ---
 
