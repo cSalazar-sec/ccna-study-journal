@@ -41,7 +41,7 @@ By completing this lab, you will:
 
 # Network Diagram
 
-<img width="600" height="595" alt="Fallout Shelter Delta with Interfaces drawio blanco" src="https://github.com/user-attachments/assets/0094926b-cde3-47cb-838f-dea7394720ec" />
+<img width="1359" height="1157" alt="image" src="https://github.com/user-attachments/assets/c0b0b5da-2e98-4443-9b7e-e6715a8b1371" />
 
 
 ---
