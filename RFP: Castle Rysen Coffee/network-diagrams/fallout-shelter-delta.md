@@ -1,3 +1,4 @@
 # Fallout Shelter Delta
 
-<img width="600" height="595" alt="Fallout Shelter Delta with Interfaces drawio blanco" src="https://github.com/user-attachments/assets/3864c012-b9df-46a1-a569-ab8e7cf2390b" />
+<img width="1150" height="1000" alt="image" src="https://github.com/user-attachments/assets/13618a24-9107-4461-bd5b-88b71e113468" />
+
