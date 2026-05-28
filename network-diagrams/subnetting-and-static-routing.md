@@ -15,4 +15,4 @@ The goal is to subnet the `192.168.5.0/24` network efficiently and configure rou
 
 ---
 
-<img width="930" height="644" alt="image" src="https://github.com/user-attachments/assets/122377f2-b0fa-40c6-9ad3-3d51fa319df5" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ee7f7bb-e9cc-4844-b2a6-c08d03dcffb0" />
