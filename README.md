@@ -10,10 +10,12 @@ Documenting my journey toward the Cisco Certified Network Associate (CCNA) certi
 - Topology Architectures
 - Physical Interface and Cabling Types
 - IPv4 Addressing & Subnetting
+- MAC learning and aging, MAC address table, Frame switching, flooding
+
 
 ## Switching Tracker
 - [X] Switching Concepts
-- [ ] VLANs
+- [X] VLANs
 - [ ] STP
 - [ ] EtherChannel
 
